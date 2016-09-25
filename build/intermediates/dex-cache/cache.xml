@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidLab\Projects\Transmul\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_ff5a32a2756b6bd77ec7bc798b28fd668290f63f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Hector Torres\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_b23e4697e5e8c9845e9c563730a78791f336aeca\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidLab\Projects\Transmul\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a9c5b5f0e29e773b848a0afc00c60f9036dcd4a5">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b64249e069bafa5f2c40b7c93f2f54b5f2fbc778\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidLab\Projects\Transmul\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_762dc4cb630f76168e60925bf861448b02a37e07\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidLab\Projects\Transmul\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94457733e1fa86eb0c8f9b7d345b2cc689f45b7e">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4b6142d053c69184df6967c6d4557ef56e46cea1\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidLab\Projects\Transmul\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\AndroidLab\Projects\Transmul\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_f278a3d752c8fb25c9c34d9392181193fbb81681\classes.dex" />
+    </item>
+
+</items>
